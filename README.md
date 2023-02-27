@@ -10,9 +10,9 @@ Pip3 install pyautogui 	# https://pypi.org/project/PyAutoGUI/
 ## Executables:
 These are pre-compiled exe fies which will run in background.  I have also included a non delay version to see that it does without waiting. 
 
-<a href="https://github.com/lalliexperience/Joke-mousemover/blob/main/dist/mousemover.exe">mousemover.exe runs instantly</a>
+<a href="https://github.com/lalliexperience/Joke-mousemover/raw/main/dist/mousemover.exe">mousemover.exe runs instantly</a>
 
-<a href="https://github.com/lalliexperience/Joke-mousemover/blob/main/dist/mousemoverplusdelay.exe">mousemoverdelay.exe Waits a random amount of time (60 to 360 minutes before activating</a>
+<a href="https://github.com/lalliexperience/Joke-mousemover/raw/main/dist/mousemoverplusdelay.exe">mousemoverdelay.exe Waits a random amount of time (60 to 360 minutes before activating</a>
 
 
 
